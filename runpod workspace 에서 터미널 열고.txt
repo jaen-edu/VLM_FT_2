@@ -1,0 +1,5 @@
+runpod workspace 에서 터미널 열고
+watch -n 1 nvidia-smi로 cuda version 확인
+
+병합할 때
+uv cache clean 명령으로 cache clean
